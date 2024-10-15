@@ -16,4 +16,4 @@ Levels are an easy way to explain the capabilities of an executor. Here are thei
 10, Assistant, UNKNOWN | UNKNOWN
 ```
 ^ This was made by Emper.\
-You can see that some levels are actually better than others, but a higher level does not ALWAYS mean a better executor.
+You can see that some levels are actually better than others, but a higher level does not ALWAYS mean a better executor. Other factors need to be taken into effect, like how trusted the owners are and if the exploit is a rat, for example.
